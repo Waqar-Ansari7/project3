@@ -4,4 +4,4 @@ Waqar Ansari
 # Student 
 Babar
 # Course
-Web development
+Web development as well as full-stack dev.
