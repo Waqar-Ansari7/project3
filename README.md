@@ -2,6 +2,6 @@
 # Teacher 
 Waqar Ansari
 # Student 
-Babar
+Babar and waseem
 # Course
 Web development as well as full-stack dev.
